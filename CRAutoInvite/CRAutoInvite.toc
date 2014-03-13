@@ -1,0 +1,13 @@
+## Interface: 50505
+## Title: CRAutoInvite
+## Author: 一区 巴尔古恩 銀滅
+## Version: 0.1 Alpha
+## Notes: 跨服自动邀请组队插件。
+## eMail: i@01zhou.cn
+## URL: http://01zhou.cn
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: CRAutoInviteSave
+
+CRAutoInvite.lua
+CRAutoInvite.xml
